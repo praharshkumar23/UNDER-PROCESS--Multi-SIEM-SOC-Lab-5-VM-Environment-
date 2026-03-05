@@ -1,4 +1,4 @@
-🛡️ Multi-SIEM SOC Lab (5-VM Environment) -- underprocess not update properly 
+🛡️ Multi-SIEM SOC Lab (5-VM Environment) 
 
 ## 🎯 Project Overview
 
